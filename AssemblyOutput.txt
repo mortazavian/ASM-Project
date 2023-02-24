@@ -1,0 +1,72 @@
+01 c8
+21 f5
+66 09 f8
+28 f7
+Invalid instruction
+66 29 e3
+Invalid instruction
+Invalid instruction
+0b 3
+09 18
+0a 3
+08 18
+0a a
+0b a
+09 11
+2b 3
+29 18
+2a 3
+28 18
+2a a
+2b a
+29 11
+2b 3
+29 18
+2b a
+29 11
+01 d8
+01 c8
+01 d0
+01 c3
+01 cb
+01 d3
+Invalid instruction
+Invalid instruction
+01 d3
+28 c3
+08 d8
+21 fe
+Invalid instruction
+Invalid instruction
+Invalid instruction
+Invalid instruction
+Invalid instruction
+01 fa
+Invalid instruction
+00 c1
+66 01 c1
+01 c1
+28 c1
+66 29 c1
+29 c1
+20 c1
+66 21 c1
+21 c1
+08 c1
+66 09 c1
+09 c1
+02 3
+Invalid instruction
+02 a
+Invalid instruction
+00 18
+Invalid instruction
+03 3
+01 18
+Invalid instruction
+03 a
+01 11
+2a 3
+2a a
+Invalid instruction
+02 3b

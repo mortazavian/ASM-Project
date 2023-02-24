@@ -1,0 +1,72 @@
+ADD eax, ecx
+AND ebp, esi
+OR ax, di
+SUB bh, dh
+ADD eax, ax
+SUB bx, sp
+INC eax
+dsfsfs
+or eax , [ebx]
+or [eax] , ebx
+or al , [bl]
+or [al] , bl
+or cl , [dl]
+or ecx, [edx]
+or [ecx], edx
+and eax , [ebx]
+and [eax] , ebx
+and al , [bl]
+and [al] , bl
+and cl , [dl]
+and ecx, [edx]
+and [ecx], edx
+sub eax , [ebx]
+sub [eax] , ebx
+sub ecx, [edx]
+Sub [ecx], edx
+add eax , ebx
+add eax , ecx
+add eax , edx
+add ebx , eax
+add ebx , ecx
+add ebx , edx
+mov eax, 2345
+eax fgf, ebx
+add ebx, edx
+sub bl, al
+or al, bl
+AnD esi, edi
+ADD eax, 10
+SUB eax, 10
+AND eax, 10
+OR eax, 10
+INC AX
+ADD EDX, EDI
+ADD EDX, SI
+ADD cl, al
+ADD cx, ax
+ADD ecx, eax
+SUB cl, al
+SUB cx, ax
+SUB ecx, eax
+AND cl, al
+AND cx, ax
+AND ecx, eax
+OR cl, al
+OR cx, ax
+OR ecx, eax
+add al, [bl]
+add [al], [bl]
+add cl , [dl]
+hahahahahahha
+add [al], bl
+iiiiiiiiiii
+add eax , [ebx]
+add [eax] , ebx
+wrong input
+add ecx, [edx]
+add [ecx], edx
+sub al , [bl]
+sub cl , [dl]
+kkk
+add bh , [bl]
